@@ -1,0 +1,14 @@
+.cardText{
+    text-align: center;
+}
+h5{
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin: 24px 0 0;
+}
+p{
+    font-style: italic;
+    margin: 24px 0 0;
+    color: #454545;
+}
